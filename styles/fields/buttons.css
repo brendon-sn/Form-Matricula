@@ -7,7 +7,7 @@ button {
 
     cursor: pointer;
 
-    & .btn-primary {
+    &.btn-primary {
         color: white;
         background-color: #E43A12;
 
@@ -17,7 +17,7 @@ button {
         }
     }
 
-    & .btn-secondary {
+    &.btn-secondary {
         margin-left: auto;
         border: 1px solid var(--text-highlight);
 
